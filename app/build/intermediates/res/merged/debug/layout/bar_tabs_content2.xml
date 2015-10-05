@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="34dp"
+        android:layout_marginTop="21dp"
+        android:text="@string/second_page"
+        tools:context=".MainActivity" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="61dp"
+        android:text="@string/relative_layout" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/0701AND/Desktop/prgData/ListViewSamples/FragmentEx2/app/src/main/res/layout/bar_tabs_content2.xml -->

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/0701AND/Desktop/prgData/ListViewSamples/FragmentEx2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_fin_confirm_message">本当に終了しますか？</string>
+    <string name="alert_dialog_fin_confirm_title">終了確認</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="app_name">ActionBarTab</string>
+    <string name="btn_log">ログ出力</string>
+    <string name="first_page">これは第一画面です。</string>
+    <string name="relative_layout">この画面はRelativeLayoutです。</string>
+    <string name="second_page">これは第二画面です。</string>
+    <string name="tab1_label">タブ1</string>
+    <string name="tab2_label">タブ2</string>
+    <string name="tab3_label">タブ3</string>
+    <string name="third_page">これは第三画面です。</string>
+    <string name="title_activity_main">アクションバーにタブ</string>
+    <string name="two_textView">TextViewとEditTextを二つずつ配置しました。</string>
+    <!-- From: file:/C:/Users/0701AND/Desktop/prgData/ListViewSamples/FragmentEx2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
